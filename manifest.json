@@ -1,0 +1,16 @@
+{
+  "name": "Twitter Image Extension",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Save original-sized images from twitter",
+  "permissions": ["contextMenus", "tabs", "https://*/*"],
+  "background": {
+    "scripts": ["main.js"],
+    "matches": ["http://www.twitter.com/*"]
+  },
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  }
+}
