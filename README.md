@@ -1,5 +1,6 @@
 # twitter-img-opener
-Twitter画像を元のサイズで開くためのChrome拡張
+Twitter画像を元のサイズで開くためのChrome拡張  
+(追記) 既に同様の機能を実現できる[拡張機能](https://chrome.google.com/webstore/detail/twitter%E7%94%BB%E5%83%8F%E5%8E%9F%E5%AF%B8%E3%83%9C%E3%82%BF%E3%83%B3/kmcomcgcopagkhcbmcmcfhpcmdolfijg/related?hl=ja)があった。こっちのほうが使いやすいです。。
 
 # インストール方法
 1. この画面右上の「Clone or Download」をクリック
